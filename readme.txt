@@ -7,8 +7,6 @@ This project is a real-time computer vision system built using:
 - **Convolutional Neural Network (CNN)** for helmet classification
 - A simple **Tkinter-based desktop app** as a prototype UI
 
-The system identifies riders **without helmets** and captures their **vehicle number plates** for reporting or alerting purposes.
-
 ---
 
 ## 🛠️ Features
