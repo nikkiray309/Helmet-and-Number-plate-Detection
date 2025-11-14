@@ -1,5 +1,4 @@
-# Helmet and Number Plate Detection
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/nikkiray309/Helmet-and-Number-plate-Detection)
+## Helmet and Number Plate Detection
 
 This project provides a real-time computer vision system to detect whether a motorcycle rider is wearing a helmet and, if not, to detect their vehicle's number plate. The system is built using YOLOv5 and includes a simple prototype GUI created with Tkinter.
 
@@ -107,4 +106,5 @@ You can monitor the training process, including loss and accuracy metrics, using
     ```
 
 2.  Open your web browser and navigate to `http://localhost:6006/` to view the dashboard.
+
 
